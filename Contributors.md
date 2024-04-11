@@ -12,6 +12,7 @@ happy# Contributors
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
+- [Elvin Harris](https://github.com/harriselvin)
 - [Saksham Khare] (https://github.com/tyrex1829)
 - [YTM] (https://github.com/Yinthirimon02)
 - Challa Nishanth Babu [Github](https://github.com/NISHANTH1221) [LinkedIn](https://www.linkedin.com/in/nishanth-babu-challa/)
